@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "title": "新中国国内最大的咸水湖是以下哪个湖泊---sad",
+    "options": {
+      "A": "青海湖asdfsadf",
+      "B": "纳木错",
+      "D": "鄱阳湖",
+      "C": "长白山天池",
+    },
+    "correct": "A",
+    "analyze": "纳木错和青海湖是咸水湖，青海湖更大些。其余两个选项是淡水湖，其中兴凯湖是目前中俄界湖。",
+    "score": 1,
+    "deleted_at": null,
+    "created_at": "2020-06-22 14:48:16",
+    "updated_at": "2020-06-22 10:04:28"
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "title": "地球最高峰是一下哪座山峰",
+    "options": {
+      "A": "乔戈里峰",
+      "B": "埃文森峰",
+      "C": "珠穆朗玛峰",
+      "D": "奥林匹斯峰"
+    },
+    "correct": "BC",
+    "analyze": "乔戈里峰是我国另一座海拔八千米以上的高峰，奥林匹斯峰是火星最高峰",
+    "score": 1,
+    "deleted_at": null,
+    "created_at": "2020-06-22 14:48:16",
+    "updated_at": "2020-06-22 08:01:53"
+  },
+  {
+    "id": 3,
+    "type": 3,
+    "title": "下面哪个是一幅地图",
+    "options": {
+      "A": "http://d.ifengimg.com/w50_h58_q70/x0.ifengimg.com/ucms/2020_21/F319365A850BF48FF65A59D0155C2CE3FBEC1C63_w50_h58.jpg",
+      "B": "http://d.ifengimg.com/w50_h58_q70/x0.ifengimg.com/ucms/2020_20/3DB17BDF1D4B7C8BF7BEE0E0642D025812B04446_w50_h58.png",
+      "C": "https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1879585545,51626802&fm=26&gp=0.jpg",
+      "D": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSo_-9LBmFHv_-QK-nLv5pK-j9C-96yLUkPqyI9XTX6TLeFGpF_&usqp=CAU"
+    },
+    "correct": "A",
+    "analyze": "其余的图是佛像",
+    "score": 1,
+    "deleted_at": null,
+    "created_at": "2020-06-22 14:48:16",
+    "updated_at": "2020-06-22 08:12:54"
+  }
+]
